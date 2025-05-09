@@ -1,1 +1,1 @@
-# cnnClassifier
+# Horse-Human-Classification-Project
