@@ -1,1 +1,1 @@
-# horses-or-humans
+# cnnClassifier
