@@ -1,3 +1,3 @@
 from cnnClassifier import logger
-from Horse-Human-Classification-Project import logger
 
+logger.info("Welcome to my custom log")
