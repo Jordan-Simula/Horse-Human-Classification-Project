@@ -1,0 +1,15 @@
+LICENSE
+README.md
+setup.py
+src/Horse-Human-Classification-Project/__init__.py
+src/Horse-Human-Classification-Project/components/__init__.py
+src/Horse-Human-Classification-Project/config/__init__.py
+src/Horse-Human-Classification-Project/config/configuration.py
+src/Horse-Human-Classification-Project/constants/__init__.py
+src/Horse-Human-Classification-Project/entity/__init__.py
+src/Horse-Human-Classification-Project/pipeline/__init__.py
+src/Horse-Human-Classification-Project/utils/__init__.py
+src/Horse_Human_Classification_Project.egg-info/PKG-INFO
+src/Horse_Human_Classification_Project.egg-info/SOURCES.txt
+src/Horse_Human_Classification_Project.egg-info/dependency_links.txt
+src/Horse_Human_Classification_Project.egg-info/top_level.txt
